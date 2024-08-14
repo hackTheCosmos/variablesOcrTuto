@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1723563458 source:c:\users\utilisateur\codeblocks-workspace\c++\variables\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1723634582 source:c:\users\utilisateur\codeblocks-workspace\c\variables\main.c
+	<stdio.h>
+	<stdlib.h>
+
